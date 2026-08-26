@@ -1,5 +1,4 @@
-Voici mon trieur de fichier en c++
-il y a des risques de pertes de donnés faire une sauvegarde avant utilisation
-compilation --> g++ *.cpp -std=c++17 -o trieur.exe -static-libgcc -static-libstdc++
+Voici mon trieur de fichier en C++
+c'est un petit projet, je me dédoine de tous disfonctionnement.
 
-l'executable "trieur.exe" est a placé dans le repertoire voulant être rangé.
+l'exécutable "trieur.exe" doit être placé dans le répertoire voulant être rangé.
